@@ -1,7 +1,7 @@
 {
-  "name": "BuilderBot",
+  "name": "AFK Bot",
   "bot-account": {
-    "username": "BuilderBot",
+    "username": "builder",
     "password": "",
     "type": "offline"
   },
@@ -13,7 +13,7 @@
   },
   "position": {
     "enabled": true,
-    "x": 10000,
+    "x": 0,
     "y": 100,
     "z": 0
   },
@@ -31,8 +31,9 @@
       "repeat": true,
       "repeat-delay": 2400,
       "messages": [
-        "I'm a bot trust",
-        "Subscribe to @DarknessEmp"
+        "I'm a regular player",
+        "Subscribe to @DarknessEmp",
+        ""
       ]
     },
     "chat-log": true,
